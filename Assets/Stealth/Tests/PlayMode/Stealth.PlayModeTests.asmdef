@@ -1,0 +1,5 @@
+{
+  "name": "Stealth.PlayModeTests",
+  "references": ["Stealth.Runtime", "Unity.InputSystem"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

@@ -1,0 +1,4 @@
+{
+  "name": "Stealth.Runtime",
+  "references": ["Unity.InputSystem"]
+}
