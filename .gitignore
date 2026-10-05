@@ -105,3 +105,19 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Teaching material and imported asset showcases (not part of the game)
+/Assets/TutorialInfo/
+/Assets/TutorialInfo.meta
+/Assets/Readme.asset
+/Assets/Readme.asset.meta
+/Assets/Stealth/START_HERE.md
+/Assets/Stealth/START_HERE.md.meta
+/Assets/Pet Cats pack/Demo/
+/Assets/Pet Cats pack/Demo.meta
+/Assets/Scenes/Demos/
+/Assets/Scenes/Demos.meta
+
+# Documentation and example bundles in embedded Unity packages
+/Packages/**/Documentation~/
+/Packages/**/Samples~/
